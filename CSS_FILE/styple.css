@@ -26,7 +26,7 @@
 		
 	}
 	.contact-information{
-		background: url('./image/background.jpg') no-repeat center fixed; 
+		background: url('../image/background.jpg') no-repeat center fixed; 
 		color:white;
 	}
 	.personal-information{
@@ -37,7 +37,7 @@
 	.quote-container{
 		text-align: center;
 		color:white;
-		background: url('./image/background.jpg') no-repeat center fixed; 
+		background: url('../image/background.jpg') no-repeat center fixed; 
 		front-size:10px;
 	}
 	table {
