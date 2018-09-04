@@ -1,49 +1,42 @@
-<head>
-<style>
 
-	html{
-		background:black; 
-	  	background-size: cover;
-	}
-	img {
-	   display: block;
-	   margin-left: auto;
-	   margin-right: auto;
-	   
-	   hight:20%;
-	   width:20%;
-	}
 	h2, h1{
 		text-align: center;
 	}
-	.body-container{	
-		height:20%;
+	.header-container{
 		width:80%;
 		margin-left:auto;
 		margin-right:auto;
-		margin:center;
+		background: url('../image/background.jpg') no-repeat center fixed; 
+		color:white;
 		display: grid;
 		
 	}
-	.contact-information{
-		background: url('../image/background.jpg') no-repeat center fixed; 
-		color:white;
+	img {
+		height:150px;
+		width:150px;
+		margin-left:auto;
+		margin-right:auto;
+	}
+	.body-container{	
+		height:100%;
+		width:80%;
+		margin-left:auto;
+		margin-right:auto;
+		display: grid;
+		
 	}
 	.personal-information{
-		grid-gap: 2px;
 		background:lightblue;
-		
 	}
 	.quote-container{
 		text-align: center;
 		color:white;
 		background: url('../image/background.jpg') no-repeat center fixed; 
-		front-size:10px;
 	}
 	table {
-    border-collapse: collapse;
-    border-spacing: 0;
-    width: 100%;
+	    border-collapse: collapse;
+	    border-spacing: 0;
+	    width: 100%;
 }
 
 	th, td {
@@ -55,5 +48,3 @@
 	    background-color: #f2f2f2
 	}
 	
-</style>
-</head>
