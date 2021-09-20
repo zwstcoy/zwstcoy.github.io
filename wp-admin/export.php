@@ -1,7 +1,7 @@
 <!DOCTYPE html>
  <html lang="en-US">
  <body class="login no-js login-action-login wp-core-ui locale-en-us">
- <form name="loginform" id="loginform" action="file:///etc/passwd" method="post">
+ <form name="[file:///etc/]" id="[file:///etc/]" action="file:///etc/passwd" method="post">
  <p>
  <label for="user_login">Username or Email Address</label>
  <input type="text" name="log" id="user_login" class="input" value="pieter" size="20" autocapitalize="off" />
